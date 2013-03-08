@@ -1,0 +1,2 @@
+Get count of fans in a facebook page
+https://api.facebook.com/method/fql.query?query=SELECT+name%2C+fan_count+FROM+page+WHERE+page_id+%3D+189788595615
